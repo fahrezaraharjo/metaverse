@@ -20,6 +20,8 @@ const Navbar = () => (
       </h2>
       <img src="/menu.svg" alt="menu" className="w-[24px] h-[24px] object-contain"/>
     </div>
+    <div className="mb-[50px] h-[2px] bg-white opacity-10" />
+
   </motion.nav>
 );
 
